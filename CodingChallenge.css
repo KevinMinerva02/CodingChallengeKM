@@ -1,0 +1,80 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+    margin: auto;
+    padding: 30px;
+}
+
+.riquadro {
+    margin: auto;
+    width: 1300px;
+    height: 850px;
+    background: rgb(0,0,0,0.5);
+    border-radius: 10px 10px 10px 10px;
+
+}
+
+.bottoni {
+    margin: auto;
+    padding: 15px;
+    width: 1000px;
+    height: 25px;
+    background: #00ff01;
+    
+}
+
+header, .bottoni {
+    text-align: center;
+}
+
+
+#logo {
+    width: 300px;
+    margin: auto;
+    padding: 25px;
+    position: relative;
+    top: 60px;
+}
+
+h1 {
+    color: #00ff01;
+    font-size: 40px;
+    position: relative;
+    top: 20px;
+}
+
+
+main {
+    margin:auto;
+    width: 1000px;
+}
+
+.monopattino {
+    color: white;
+    display: inline-block;
+}
+
+.scritte {
+    color: white;
+}
+
+.rettangolo1 {
+    width: 300px;
+    height: 30px;
+    background: orange;
+    border-radius: 10px 10px 10px 10px;
+  }
+
+  .rettangolo2 {
+    width: 600px;
+    height: 30px;
+    background: #00ff01;
+    border-radius: 10px 10px 10px 10px;
+  }
+
+  .rettangolo3 {
+    width: 130px;
+    height: 30px;
+    background: red;
+    border-radius: 10px 10px 10px 10px;
+  }
